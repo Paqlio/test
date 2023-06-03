@@ -1,0 +1,5 @@
+#Join Messages:
+Prefix: "&8(&6🔥&8)&r"
+EnableCustom: true
+JoinMessage: "&8(&a+&8) &a%player_displayname%"
+QuitMessage: "&8(&c-&8) &c%player_displayname%"
